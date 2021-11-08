@@ -1,0 +1,30 @@
+{
+	"name": "shop",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon api/server.js",
+		"start:prod": "SET NODE_ENV=production&& nodemon api/server.js",
+		"client": "yarn --cwd frontend start"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"cookie-parser": "^1.4.5",
+		"dotenv": "^10.0.0",
+		"express": "^4.17.1",
+		"express-mongo-sanitize": "^2.1.0",
+		"express-rate-limit": "^5.5.1",
+		"helmet": "^4.6.0",
+		"hpp": "^0.2.3",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^6.0.12",
+		"morgan": "^1.10.0",
+		"multer": "^1.4.3",
+		"nodemon": "^2.0.14",
+		"slugify": "^1.6.1",
+		"validator": "^13.7.0",
+		"xss-clean": "^0.1.1"
+	}
+}
