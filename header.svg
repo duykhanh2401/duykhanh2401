@@ -12,6 +12,8 @@
                     right: 0;
                 }
                 #bongo-cat {
+				background-color: #000;
+
                     position: absolute;
                     height: 80vh;
                     width: 80vw;
@@ -201,9 +203,7 @@
                     transform: rotateX(-37deg) rotateY(-46deg) rotateZ(-23deg) translateX(8px)
                         translateY(20px) translateZ(-50px);
                 }
-		.content {
-			backround-color: #000;
-				}
+
 			</style>
 			<div class="container">
 				
