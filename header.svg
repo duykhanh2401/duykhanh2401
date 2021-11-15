@@ -2,7 +2,7 @@
 					id="bongo-cat"
 					xmlns="http://www.w3.org/2000/svg"
 					xmlns:xlink="http://www.w3.org/1999/xlink"
-					viewBox="0 0 787.3 433.8"
+					viewBox="0 0 800 400" width="800" height="400"
 				>
 	<style>
 				.content {
@@ -16,8 +16,8 @@
                 }
                 #bongo-cat {
                     position: absolute;
-                    height: 80vh;
-                    width: 80vw;
+                    height: 100vh;
+                    width: 100vw;
                     top: 100vh;
                     bottom: 0;
                     left: 0;
