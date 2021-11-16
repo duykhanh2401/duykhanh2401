@@ -22,4 +22,4 @@
 <!-- 
 ## Activity 👩‍💻
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duykhanh2401)] -->
+[![Duy Khánh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duykhanh2401)] -->
