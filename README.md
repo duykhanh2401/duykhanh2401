@@ -19,7 +19,7 @@
 ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=duykhanh2401&theme=tokyonight)
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=duykhanh2401&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-<!-- 
+
 ## Activity 👩‍💻
 
-[![Duy Khánh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duykhanh2401)] -->
+[![Duy Khánh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duykhanh2401)]
