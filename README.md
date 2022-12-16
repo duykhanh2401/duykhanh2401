@@ -14,7 +14,7 @@
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoangtran0410" alt="hoangtran0410" /></a> </p>-->
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=duykhanh2401&show_icons=true&locale=en&theme=tokyonight)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=duykhanh2401&show_icons=true&locale=en&theme=tokyonight&count_private=true)
 
 ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=duykhanh2401&theme=tokyonight)
 
