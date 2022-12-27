@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vu Duy Khanh
 
-### A BackEnd developer from VietNam
+### A Backend developer from VietNam
 <div align="center">
 	<br>
 	<a href="https://github.com/duykhanh2401/duykhanh2401/blob/main/header.svg">
